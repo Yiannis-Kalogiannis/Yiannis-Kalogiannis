@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nottiivago?tab=repositories](https://github.com/nottiivago?tab=repositories)
-
+- 👨‍💻 - All of my projects are available at [My GitHub Repositories](https://github.com/nottiivago?tab=repositories)
 - 📫 How to reach me **kalojohn22@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGXJUQ27fM/Oyg8LMdMl4bcSTHagXqZBg/view?utm_content=DAGXJUQ27fM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8dcca0eb92]
+- 📄 - Know about my experiences [Here](https://www.canva.com/design/DAGXJUQ27fM/Oyg8LMdMl4bcSTHagXqZBg/view)
+
 
 - ⚡ Fun fact **I like computers !! :P**
 
