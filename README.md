@@ -42,40 +42,40 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" width="40" height="40" style="filter: invert(31%) sepia(96%) saturate(380%) hue-rotate(176deg) brightness(102%) contrast(99%);"/>
+</a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" alt="Express" width="40" height="40" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);"/>
+</a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.canva.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Canva_Logo.svg" alt="canva" width="40" height="40"/> 
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Adobe_Photoshop_Logo_2023.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Npm-icon.svg" alt="npm" width="40" height="40"/> 
-  </a>
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> 
-  </a>
-  <a href="https://trello.com" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Trello_logo_2017.svg" alt="trello" width="40" height="40"/> 
-  </a>
-</p>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" style="color: #563d7c"/>
+</a>
+  <!-- Using Simple Icons for the missing logos -->
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/canva.svg" alt="Canva" width="40" height="40" style="filter: invert(42%) sepia(59%) saturate(492%) hue-rotate(167deg) brightness(92%) contrast(88%);"/>
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/adobephotoshop.svg" alt="Photoshop" width="40" height="40" style="filter: invert(50%) sepia(30%) saturate(200%) hue-rotate(190deg) brightness(90%) contrast(95%);"/>
+</a>
+<a href="https://www.npmjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
+</a>
+<a href="https://trello.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40"/>
+</a>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nottiivago&show_icons=true&locale=en&layout=compact" alt="nottiivago" /></p>
 
