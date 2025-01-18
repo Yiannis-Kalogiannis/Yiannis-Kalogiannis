@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 - All of my projects are available at [My GitHub Repositories](https://github.com/nottiivago?tab=repositories)
+- 👨‍💻 - All of my projects are available at [My GitHub Repositories](https://github.com/Yiannis-Kalogiannis?tab=repositories)
 - 📫 How to reach me **kalojohn22@gmail.com**
 
 - 📄 - Know about my experiences [Here](https://www.canva.com/design/DAGXJUQ27fM/Oyg8LMdMl4bcSTHagXqZBg/view)
